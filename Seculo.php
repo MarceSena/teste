@@ -3,7 +3,7 @@
 class Seculo
 {
     public $ano;
-    public $num;
+  
 
     public function seculoAno($ano)
     {
